@@ -24,7 +24,7 @@ devicons: https://icongr.am/devicon
 <table align="center">
 <h2>Technologies that I use:</h2>
 <tr>
- <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylerFarhner&layout=compact" /></td>
+ <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylerFarhner&show_icons=true&theme=tokyonight" /></td>
 <td><h4>| HTML5 | CSS3 | Javascript | Ruby on Rails |</h4>
 <h4> | jQuery | React.js | Node.js | Vue.js | </h4> 
 <h4> | Express.js | Mongoose | Bootstrap | </h4> 
