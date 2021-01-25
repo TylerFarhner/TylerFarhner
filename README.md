@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 devicons: https://icongr.am/devicon
 -->
 
-- #### 📫  You can reach me at tyler@farhner.dev
+- #### 📫  You can reach me at tylerfarhner@gmail.com
 - #### 🔭  I am currently working on a handful of freelance projects! Stay tuned!
 <!-- 
 - 🌱 I’m currently learning the technologies to become a Full Stack Software Engineer through General Assembly
