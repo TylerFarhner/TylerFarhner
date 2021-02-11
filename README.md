@@ -17,7 +17,7 @@ devicons: https://icongr.am/devicon
 -->
 
 - #### 📫  You can reach me at tyler@farhner.dev
-- #### 🔭  I am currently working on a handful of freelance projects! Stay tuned!
+- #### 🔭  I am currently working on a handful of freelance projects in React Native including a mobile app for hammocking! Stay tuned!
 <!-- 
 - 🌱 I’m currently learning the technologies to become a Full Stack Software Engineer through General Assembly
 -->
