@@ -1,4 +1,4 @@
-<h1 align="center">Ayo!</h1>
+<h1 align="center">Trust Yourself.</h1>
 
 <!--
 **TylerFarhner/TylerFarhner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
