@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 devicons: https://icongr.am/devicon
 -->
 
-- #### 📫  You can reach me at tyler@farhner.dev
+- #### 📫  You can reach me via my website: www.hiimty.net
 <!-- 
-- 🌱 I’m currently learning the technologies to become a Full Stack Software Engineer through General Assembly
+- 🌱 Freelance Full-Stack Software Engineer specializing in Mobile Development via React Native.
 -->
 <table align="center">
 <h2>Technologies that I use:</h2>
